@@ -1,0 +1,32 @@
+body{
+  background-color: #00D8AF;
+}
+.ul-item{
+  text-align: center;
+  background-color: white;
+  list-style: none;
+}
+.p-item{
+  text-transform:uppercase ;
+  font-weight: bold;
+}
+.picsum-img{
+  border-radius: 50%;
+}
+.domen{
+  text-transform: uppercase;
+  color: #969696;
+}
+.domen-1{
+  color: black;
+}
+.team{
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #EBE8A1;
+}
+.corporate-p{
+  color: #AC7481;
+  text-transform: uppercase;
+  font-weight: bold;
+}
